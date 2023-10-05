@@ -6,7 +6,7 @@ public class login
 
     {
    
-       int a =70
+       int a =170;
 
        for (i=0;i<=10;i++)
 
@@ -16,3 +16,5 @@ public class login
        }
     }
 }
+
+
